@@ -1,7 +1,6 @@
 # Justin Welsh - LinkedIn Posts
 
 ## Post 1 (BEST - Customer strategy)
-Date: (add from LinkedIn)
 Link: https://www.linkedin.com/posts/justin-welsh_your-first-customer-is-sitting-right-here-activity-7429009473274355712-PVP6
 
 Content:
