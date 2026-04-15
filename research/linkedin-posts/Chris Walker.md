@@ -1,4 +1,5 @@
 Post 1 (Demand Generation vs Lead Generation Shift)
+
 Date: ~recent
 Link: https://www.linkedin.com/posts/chriswalker171_marketing-demand-b2b-activity-7130189117371400192-y7RE 
 Content:
