@@ -1,4 +1,5 @@
 Post 1 (Make Copy Concrete, Not Abstract)
+
 Link: https://www.marketingexamples.com (Marketing Examples – core framework)
 Content:
 Most marketing fails because it uses abstract language.
