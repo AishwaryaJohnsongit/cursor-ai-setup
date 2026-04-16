@@ -31,7 +31,7 @@ I chose LinkedIn organic content strategy for B2B SaaS because LinkedIn is a pow
 
 ## Experts included and why I chose them
 
-**1. Alex Hormozi**
+1. Alex Hormozi
 I chose Alex Hormozi because he is a real business operator who focuses on offers, sales, and value creation. His content shows how attention converts into revenue.
 
 2. Hiten Shah
@@ -49,7 +49,7 @@ I chose Justin Welsh because he demonstrates how to build and monetize an audien
 6. Katelyn Bourgoin
 I chose Katelyn Bourgoin because she focuses on customer psychology and helps understand why people make buying decisions.
 
-**7. Dave Gerhardt**
+7. Dave Gerhardt
 I chose Dave Gerhardt because of his strong background in B2B marketing and brand building, especially in SaaS.
 
 8. Chris Walker
